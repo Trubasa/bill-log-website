@@ -1,0 +1,20 @@
+{
+  "name": "pwa-test",
+  "short_name": "pwa-test",
+  "icons": [
+    {
+      "src": "http://127.0.0.1:9091/dist/static/img/icons/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "http://127.0.0.1:9091/dist/static/img/icons/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "http://127.0.0.1:9091/dist/index.html",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#4DBA87"
+}
